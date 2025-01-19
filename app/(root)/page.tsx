@@ -24,7 +24,7 @@ const RootHomePage = () => {
           variant='secondary'
           className='w-fit border-2 bg-white/30 backdrop-blur-sm'
         >
-          Explore More
+          Explore more
         </Button>
       </div>
     </main>
